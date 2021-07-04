@@ -1,0 +1,31 @@
+[
+  {
+    "type": "user",
+    "url": "https://github.com/afiz1",
+    "avatar_url": "https://avatars.githubusercontent.com/u/76191790?v=4",
+    "login": "afiz1",
+    "name": null,
+    "bio": null,
+    "company": null,
+    "website": null,
+    "location": null,
+    "emails": [
+      {
+        "address": "afizismail5839@gmail.com",
+        "primary": true,
+        "verified": true
+      },
+      {
+        "address": "76191790+afiz1@users.noreply.github.com",
+        "primary": false,
+        "verified": true
+      }
+    ],
+    "billing_plan": {
+      "name": "free",
+      "space": 976562499,
+      "private_repos": 10000
+    },
+    "created_at": "2020-12-18T02:24:04Z"
+  }
+]
